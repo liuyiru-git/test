@@ -17,6 +17,7 @@ public class Test02 {
                 System.out.println(i);
             }
             System.out.println("=============");
+            System.out.println("===>>>>>");
         }
     }
 }
