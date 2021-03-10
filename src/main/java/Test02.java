@@ -16,6 +16,7 @@ public class Test02 {
             }else {
                 System.out.println(i);
             }
+            System.out.println("=============");
         }
     }
 }
